@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364648468720",
+    "project_id": "zeraf-brew-crew",
+    "storage_bucket": "zeraf-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364648468720:android:16288286d00768c87bb235",
+        "android_client_info": {
+          "package_name": "com.example.zeraf_brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364648468720-nd91mq1gp892v0s5qnr9irkir1uq6oec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPExMwGzmYKSY6is7hkqC8FrDQodp7cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364648468720-nd91mq1gp892v0s5qnr9irkir1uq6oec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
